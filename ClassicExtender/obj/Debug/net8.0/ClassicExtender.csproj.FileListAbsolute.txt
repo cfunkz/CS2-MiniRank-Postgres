@@ -1,0 +1,13 @@
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\bin\Debug\net8.0\ClassicExtender.deps.json
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\bin\Debug\net8.0\ClassicExtender.dll
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\bin\Debug\net8.0\ClassicExtender.pdb
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ClassicExtender.csproj.AssemblyReference.cache
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ClassicExtender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ClassicExtender.AssemblyInfoInputs.cache
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ClassicExtender.AssemblyInfo.cs
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ClassicExtender.csproj.CoreCompileInputs.cache
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ClassicExtender.dll
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\refint\ClassicExtender.dll
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ClassicExtender.pdb
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ref\ClassicExtender.dll
+C:\Visual Code Projects\Counter Strike Sharp\ClassicExtender\obj\Debug\net8.0\ClassicExtender.sourcelink.json
