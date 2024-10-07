@@ -1,5 +1,5 @@
 # CS2-MiniRank-Postgres
-This is a basic PostgreSQL rank plugin for Counter-Strike 2 (CS2) built using the CounterStrikeSharp library.
+This is a basic PostgreSQL rank plugin for Counter-Strike 2 (CS2) built using the CounterStrikeSharp library, basic cache.
 
 - **Track**: 
   - Player statistics:
