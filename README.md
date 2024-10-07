@@ -9,7 +9,7 @@ This is a basic PostgreSQL rank plugin for Counter-Strike 2 (CS2) built using th
     - **Flash Assists**
     - **Headshots (HS)**
     - **No-Scopes (NS)**
-    - **HE (High Explosive) Kills**
+    - **HE Kills**
     - **Molotov Kills**
     - **Playtime**
     - **LastConnected**
