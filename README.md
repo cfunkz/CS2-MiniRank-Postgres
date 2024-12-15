@@ -1,4 +1,4 @@
-![Downloads](https://img.shields.io/github/downloads/cfunkz/CS2-MiniRank-Postgres/latest/total)
+![Downloads](https://img.shields.io/github/downloads/cfunkz/CS2-MiniRank-Postgres/total)
 
 # CS2-MiniRank-Postgres
 This is a basic PostgreSQL rank plugin for Counter-Strike 2 (CS2) built using the CounterStrikeSharp library.
