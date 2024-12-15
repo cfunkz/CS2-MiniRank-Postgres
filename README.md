@@ -1,4 +1,4 @@
-![Downloads](https://img.shields.io/github/downloads/cfunkz/CS2-MiniRank-Postgres/total) ![Latest Release](https://img.shields.io/github/release/cfunkz/CS2-MiniRank-Postgres.svg) ![Commit Activity](https://img.shields.io/github/commit-activity/cfunkz/CS2-MiniRank-Postgres)
+![Downloads](https://img.shields.io/github/downloads/cfunkz/CS2-MiniRank-Postgres/total) ![Latest Release](https://img.shields.io/github/release/cfunkz/CS2-MiniRank-Postgres.svg) ![Commit Activity](https://img.shields.io/github/commit-activity/t/cfunkz/CS2-MiniRank-Postgres)
 
 
 # CS2-MiniRank-Postgres
